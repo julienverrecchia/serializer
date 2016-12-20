@@ -1,4 +1,8 @@
-Serializer [![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/schmittjoh/serializer/badges/quality-score.png?s=189df68e00c75d3fe155bc0da0b53b53709a9895)](https://scrutinizer-ci.com/g/schmittjoh/serializer/) [![Build Status](https://travis-ci.org/schmittjoh/serializer.svg?branch=master)](https://travis-ci.org/schmittjoh/serializer)
+Serializer
 ==========
 
-Learn more about it in its [documentation](http://jmsyst.com/libs/serializer).
+Official [documentation](http://jmsyst.com/libs/serializer).
+
+This fork is used to fix a bug in a legacy project which still has a PHP 5.3.x requirement.
+
+Tag : 0.17
