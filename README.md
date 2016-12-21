@@ -9,18 +9,22 @@ The issue was fixed in official 1.0 release (https://github.com/schmittjoh/seria
 ## Composer configuration
 
 composer.json
-```    "repositories": [
+```json
+    "repositories": [
         {
             "type": "vcs",
             "url": "https://github.com/julienverrecchia/serializer"
         }
-    ],```
+    ],
+```
 
-```    "require": {
+```json
+    "require": {
             ...
             "jms/serializer": "dev-php56fix as 0.16.0",
             ...
         }
-    },```
+    },
+```
 
 Tag : 0.17
